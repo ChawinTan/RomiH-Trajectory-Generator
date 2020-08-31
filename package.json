@@ -1,0 +1,17 @@
+{
+  "name": "trajectory-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tan Hang Chawin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.6.2",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0",
+    "util": "^0.12.3"
+  }
+}
